@@ -4,7 +4,7 @@ A **Python-based NSE stock scanner** that calculates **technical indicators for 
 
 This project is designed for traders, investors, and analysts who want **centralized, always-updated technical data** without juggling multiple tools.
 
----
+
 
 ## 🚀 Key Features
 
