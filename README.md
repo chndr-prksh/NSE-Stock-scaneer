@@ -176,7 +176,7 @@ Contributions, ideas, and improvements are welcome! Feel free to open an issue o
 
 ## 📄 License
 
-MIT License
+MIT License.
 
 ---
 
